@@ -1,0 +1,3 @@
+2024-04-25 21:03:24.919  INFO 7027 --- [main] ru.sbrf.gameOfLife.Main                  : Starting Main using Java 20.0.1 on MacBook-Pro-Aleksandr.local with PID 7027 (/Users/aleksandrkurbatov/Desktop/GameOfLife/target/classes started by aleksandrkurbatov in /Users/aleksandrkurbatov/Desktop/GameOfLife)
+2024-04-25 21:03:24.922  INFO 7027 --- [main] ru.sbrf.gameOfLife.Main                  : The following 1 profile is active: "AUTO"
+2024-04-25 21:03:25.263  INFO 7027 --- [main] ru.sbrf.gameOfLife.Main                  : Started Main in 6.048 seconds (JVM running for 6.552)
